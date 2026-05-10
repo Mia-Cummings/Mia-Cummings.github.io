@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
 
-    background-image: url('../HTML/images/computerglasses.jpg'); 
+    background-image: url('images/computerglasses.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
